@@ -12,9 +12,7 @@ Passando informações como: Temperatura atual, temperatura máxima, temperatura
 ## layout do Projeto em Vídeo
 
 
-<video controls>
-<source src="./images/previsao.mp4" width="260px" height="160px">
-</video>
+![vídeo de apresentação](./images/previsao.mp4)
 
 
 ***
