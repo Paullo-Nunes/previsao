@@ -25,8 +25,8 @@ Passando informações como: Temperatura atual, temperatura máxima, temperatura
 
 ### Biblioteca de Ícones
 
-- ![](https://cdnjs.com/libraries/font-awesome) 
-- ![](https://fontawesome.com/)
+- https://cdnjs.com/libraries/font-awesome 
+- https://fontawesome.com/
 
 
 ### Créditos
