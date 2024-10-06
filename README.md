@@ -11,7 +11,7 @@ Passando informações como: Temperatura atual, temperatura máxima, temperatura
 
 ## layout do Projeto em Vídeo
 
-
+https://github.com/user-attachments/assets/ce98e43b-b0c5-4dac-92da-ce91315691c9
 
 
 
