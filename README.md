@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/ce98e43b-b0c5-4dac-92da-ce91315691c9
 
 ### Créditos
 
-> <p>Projeto desenvolvido por Larissa Kich do canal do Youtube Larissa Kich.</p>
+> <p>Créditos ao canal no Youtube de Larissa Kich.</p>
 
 #### Modificações 
 
