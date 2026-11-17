@@ -1,0 +1,14 @@
+{
+  "name": "previsao-do-tempo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Aplicativo de previsão do tempo com backend Node.js",
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "scripts": {
+    "start": "node --env-file=.env server.js",
+    "test": "node --test"
+  }
+}
