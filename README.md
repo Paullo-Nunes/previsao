@@ -1,6 +1,5 @@
 # Projeto Previsão do Tempo
 
-<img src="./images/previsao-tempo.png" alt="Tela inicial do aplicativo de previsão do tempo">
 
 ## Descrição
 
