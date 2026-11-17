@@ -1,6 +1,5 @@
 # Projeto Previsão do Tempo
 
-
 ## Descrição
 
 Aplicativo para consultar temperatura atual, temperaturas máxima e mínima, umidade e velocidade do vento.
