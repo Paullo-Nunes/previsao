@@ -4,6 +4,13 @@ Aplicação web para consultar as condições meteorológicas de uma cidade em t
 
 ![Prévia da aplicação](./images/previsao-tempo.png)
 
+## Vídeo de Demonstração
+
+
+https://github.com/user-attachments/assets/f8d83ace-e679-4cb3-b90b-9aefd9e43e2a
+
+
+
 ## Funcionalidades
 
 - Busca de previsão por nome da cidade
